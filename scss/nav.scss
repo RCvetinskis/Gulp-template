@@ -1,0 +1,16 @@
+nav {
+    background-color:$bg-color-nav;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    li {
+      list-style: none;
+      
+    } a {
+      text-decoration: none;
+      color: white;
+      border-left: 3px solid green;
+      padding-left: 5px;
+    }
+  }
